@@ -1,2 +1,3 @@
 # Frateli
-Data for Good Project with Frateli
+Data for Good Project x Bayes Impact with Frateli
+
